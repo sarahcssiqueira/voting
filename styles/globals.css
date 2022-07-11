@@ -14,7 +14,6 @@
     dark:border-zinc-600
   }
 
-
   .form-input {
     @apply block w-full bg-transparent border-zinc-300 rounded shadow-sm
     dark:bg-zinc-800 dark:border-zinc-600
