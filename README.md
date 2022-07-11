@@ -55,11 +55,3 @@ Copy your logo image to `public` folder. Then edit `components/Header.tsx`.
 In the project folder, run:
 `npm install`
 `next dev`
-
-## Deploy Your Project
-
-To deploy your project to Vercel, run `vercel` in the project folder.
-
-Or you can push it to GitHub/GitLab/Bitbucket and [import to Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=upstash-roadmap).
-
-**Important**: When you import your project on Vercel, make sure to click on **Environment Variables** and set them to match your `.env.local` file.
