@@ -11,7 +11,7 @@ export default authenticate(async (req, res) => {
     const isValid = await schema.isValid(title)
 
     if (!isValid) {
-      throw new Error('Min 10 and Max 70 characters please.')
+      throw new Error('Minimum 10 and Max 70 characters please.')
     }
 
     const { nickname, email, updated_at, ...user } = req.user
