@@ -1,6 +1,4 @@
-# Roadmap Voting App
-
-![](https://github.com/upstash/roadmap/blob/main/ss.png)
+# Voting App
 
 You can deploy Roadmap application yourself and ask your users to vote for your roadmap features. See the [live example](https://roadmap.upstash.com).
 
